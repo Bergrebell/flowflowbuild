@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.a5bba514.css",
   "main.css.map": "static/css/main.a5bba514.css.map",
-  "main.js": "static/js/main.a8555c8a.js",
-  "main.js.map": "static/js/main.a8555c8a.js.map",
+  "main.js": "static/js/main.a71faf9f.js",
+  "main.js.map": "static/js/main.a71faf9f.js.map",
   "static/media/Rounded_Elegance.ttf": "static/media/Rounded_Elegance.21c892a7.ttf",
   "static/media/Wind-Link.svg": "static/media/Wind-Link.951e5e97.svg",
   "static/media/back.svg": "static/media/back.6919008d.svg",
@@ -12,6 +12,7 @@
   "static/media/fish1.svg": "static/media/fish1.3c0154ca.svg",
   "static/media/flowflow_logo_small.png": "static/media/flowflow_logo_small.7188904a.png",
   "static/media/level_old.svg": "static/media/level_old.2aeacadd.svg",
+  "static/media/levels.svg": "static/media/levels.aaba2bac.svg",
   "static/media/rain.svg": "static/media/rain.1aacfeed.svg",
   "static/media/sealevels.svg": "static/media/sealevels.aaba2bac.svg",
   "static/media/search.svg": "static/media/search.36dcdef0.svg",
